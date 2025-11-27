@@ -1,0 +1,6 @@
+﻿namespace GestorProposta
+{
+    public class GestorPropostas
+    {
+    }
+}

@@ -1,0 +1,6 @@
+@GestorProposta_HostAddress = http://localhost:5251
+
+GET {{GestorProposta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
